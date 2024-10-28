@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/StardosStencil-Bold.ttf",
+      "sha1": "f5f48ae2008b45099140762a8defc461c8210d6d"
+    },
+    {
+      "path": "assets/fonts/StardosStencil-Regular.ttf",
+      "sha1": "6c38a93e3643d5923ec189ea2292544909cf4fbd"
+    }
+  ]
+}
